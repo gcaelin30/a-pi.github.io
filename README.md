@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+---
+noteId: "dd10138046d811eab6d563c0ea3a69f4"
+tags: []
 
-You can use the [editor on GitHub](https://github.com/gcaelin30/a-pi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# info430ad-APi
 
-### Markdown
+This repository will hold documents related to the A-Pi group's capstone project which is being sponsored by Microsoft. The team is working on redesigning the Azure for Students experience through documentation, specifically Microsoft Learn.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Godgiven Reamico
+UX Architect,
+Project Manager
 
-```markdown
-Syntax highlighted code block
+## Jack Chang
+Data Scientist,
+Product Analyst 
 
-# Header 1
-## Header 2
-### Header 3
+## Simran Kota
+Data Scientist,
+Designer
 
-- Bulleted
-- List
+## Brendan Jacobsen
+UI Designer,
+Information Architect
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gcaelin30/a-pi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us using [this link.](https://forms.gle/5B7XKWrjmsTUqfYz8)
